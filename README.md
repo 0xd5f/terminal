@@ -29,7 +29,7 @@
 git clone https://github.com/0xd5f/terminal.git
 cd terminal
 open index.html
-
+```
 **Автор:** [0xd5f] 
 ---
 BTC: bc1q20yn32a9ykkgcf7r8g23n7gwqzzfj9u932w4ww
